@@ -16,3 +16,7 @@ hello nodejs
 
 - [进程管理](./src/05-process/demo.js) 
   
+
+- 异步编程
+  - [概念](./src/06.async/index.js)
+  - [domain](./src/06.async/domain.js)
